@@ -12,4 +12,4 @@ The Pre-trained Word2Vec model trained on the Google News dataset is used in thi
 
 During the comparison of different model's performance on this dataset, the best performing model and the vocabulary which was trained on is automatically saved. In this directory, the SVM model with the filename [best_model_svm.sav](./best_model_svm.sav) was the best performing model on vocabulary trained on this dataset and is saved as with the filename as [word2vec.model](./word2vec.model). This model has an F1 score and an accuracy of 0.89.
 
-A web app version of the model trained for sentiment analysis on the IMDB dataset can be found [here](https://analyze-sentiments.herokuapp.com)(Refresh the page incase of a page load error).
+A web app version of the model trained for sentiment analysis on the IMDB dataset can be found [here](https://analyze-sentiments.herokuapp.com) (Refresh the page incase of a page load error).
